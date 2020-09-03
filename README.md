@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software engineering degree. But if anyone wants to hire me, I know a thing or two about programming :)
 
@@ -7,6 +7,15 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 - 👯 I’m looking to collaborate on anything low level
 - 💬 Ask me about game engines
 - 📫 How to reach me: alexsindledecker1@gmail.com
+
+### My Recent Activity
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com//ForestStreamStudios/Project-Suzanne/pull/4) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+2. 🎉 Merged PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+3. 💪 Opened PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+4. 🎉 Merged PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
+5. 💪 Opened PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
+<!--END_SECTION:activity-->
 
 <div align="left">
   <h3>Stats</h3>
@@ -21,11 +30,3 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
       src="https://github-readme-stats-seven-chi.vercel.app/api/top-langs/?username=Alex-Sindledecker&layout=compact&theme=ayu-mirage">
   </a>
 </div>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//ForestStreamStudios/Project-Suzanne/pull/4) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-2. 🎉 Merged PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-3. 💪 Opened PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-4. 🎉 Merged PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
-5. 💪 Opened PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
-<!--END_SECTION:activity-->

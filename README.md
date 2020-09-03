@@ -23,3 +23,9 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 </div>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com//ForestStreamStudios/Project-Suzanne/pull/4) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+2. 🎉 Merged PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+3. 💪 Opened PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+4. 🎉 Merged PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
+5. 💪 Opened PR [#5](https://github.com//ForestStreamStudios/test-project/pull/5) in [ForestStreamStudios/test-project](https://github.com//ForestStreamStudios/test-project)
+<!--END_SECTION:activity-->

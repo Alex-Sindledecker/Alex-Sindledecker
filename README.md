@@ -23,3 +23,5 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 </div>
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->

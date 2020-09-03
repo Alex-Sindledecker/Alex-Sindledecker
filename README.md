@@ -21,3 +21,5 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
       src="https://github-readme-stats-seven-chi.vercel.app/api/top-langs/?username=Alex-Sindledecker&layout=compact&theme=ayu-mirage">
   </a>
 </div>
+
+<!--START_SECTION:activity-->

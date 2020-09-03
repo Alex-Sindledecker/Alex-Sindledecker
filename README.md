@@ -14,10 +14,10 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 <div align="left">
   <a href="https://github.com/Alex-Sindledecker" target="_blank">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Alex-Sindledecker&hide=stars&theme=ayu-mirage">
+      src="https://github-readme-stats-seven-chi.vercel.app/api?username=Alex-Sindledecker&hide=stars&theme=ayu-mirage">
   </a>
   <a href="https://github.com/search?o=desc&q=user%3AAlex-Sindledecker&s=stars&type=Repositories">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Sindledecker&layout=compact&theme=ayu-mirage">
+      src="https://github-readme-stats-seven-chi.vercel.app/api/top-langs/?username=Alex-Sindledecker&layout=compact&theme=ayu-mirage">
   </a>
 </div>

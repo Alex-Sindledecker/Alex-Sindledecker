@@ -10,11 +10,11 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
-2. 💪 Opened PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
-3. 💪 Opened PR [#4](https://github.com//ForestStreamStudios/Project-Suzanne/pull/4) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-4. 🎉 Merged PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-5. 💪 Opened PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+1. 💪 Opened PR [#7](https://github.com//ForestStreamStudios/Project-Suzanne/pull/7) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+2. 🎉 Merged PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
+3. 💪 Opened PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
+4. 💪 Opened PR [#4](https://github.com//ForestStreamStudios/Project-Suzanne/pull/4) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+5. 🎉 Merged PR [#1](https://github.com//ForestStreamStudios/Project-Suzanne/pull/1) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
 <!--END_SECTION:activity-->
 
 <div align="left">

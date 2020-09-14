@@ -10,11 +10,11 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//ForestStreamStudios/Project-Suzanne/pull/7) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-2. 💪 Opened PR [#6](https://github.com//ForestStreamStudios/Timezone-Website/pull/6) in [ForestStreamStudios/Timezone-Website](https://github.com//ForestStreamStudios/Timezone-Website)
-3. 💪 Opened PR [#7](https://github.com//ForestStreamStudios/Project-Suzanne/pull/7) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
-4. 🎉 Merged PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
-5. 💪 Opened PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
+1. 🗣 Commented on [#9](https://github.com//ForestStreamStudios/Project-Suzanne/issues/9) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+2. 🎉 Merged PR [#7](https://github.com//ForestStreamStudios/Project-Suzanne/pull/7) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+3. 💪 Opened PR [#6](https://github.com//ForestStreamStudios/Timezone-Website/pull/6) in [ForestStreamStudios/Timezone-Website](https://github.com//ForestStreamStudios/Timezone-Website)
+4. 💪 Opened PR [#7](https://github.com//ForestStreamStudios/Project-Suzanne/pull/7) in [ForestStreamStudios/Project-Suzanne](https://github.com//ForestStreamStudios/Project-Suzanne)
+5. 🎉 Merged PR [#1](https://github.com//Alex-Sindledecker/Game-Engine/pull/1) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
 <!--END_SECTION:activity-->
 
 <div align="left">

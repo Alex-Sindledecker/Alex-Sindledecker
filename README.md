@@ -8,7 +8,7 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 - 💬 Ask me about game engines
 - 📫 How to reach me: alexsindledecker1@gmail.com
 
-### My Recent Activity
+### What I've been doing recently
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com//ForestStreamStudios/Timezone-Website/pull/6) in [ForestStreamStudios/Timezone-Website](https://github.com//ForestStreamStudios/Timezone-Website)
 2. 🎉 Merged PR [#3](https://github.com//Alex-Sindledecker/Game-Engine/pull/3) in [Alex-Sindledecker/Game-Engine](https://github.com//Alex-Sindledecker/Game-Engine)
@@ -18,7 +18,7 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 <!--END_SECTION:activity-->
 
 <div align="left">
-  <h3>Some pretty cool stats about me</h3>
+  <h3>Some Pretty Cool Stats About Me</h3>
 </div>
 <div align="left">
   <a href="https://github.com/Alex-Sindledecker" target="_blank">

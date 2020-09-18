@@ -18,7 +18,7 @@ I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software 
 <!--END_SECTION:activity-->
 
 <div align="left">
-  <h3>Stats</h3>
+  <h3>Some pretty cool stats about me</h3>
 </div>
 <div align="left">
   <a href="https://github.com/Alex-Sindledecker" target="_blank">

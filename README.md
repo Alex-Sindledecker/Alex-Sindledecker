@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm Alex Sindledecker, a 17yr old currently applying to colleges for a software engineering degree. But if anyone wants to hire me, I know a thing or two about programming :)
+I'm Alex Sindledecker, an first year cs student at Washington State University.
 
-- 🔭 I’m currently working on Project Suzanne with Forest Stream Studios and my own custom game engine
-- 🌱 I’m currently learning about game engine architecture
-- 👯 I’m looking to collaborate on anything low level
-- 💬 Ask me about game engines
+- 🔭 I’m currently working on gettingy degree. 12.5% of the way there!
+- 👯 I’m willing to collaborate on anything involving low level graphics or sound 
+- 💬 Ask me about game engines or synthesisers!
 - 📫 How to reach me: alexsindledecker1@gmail.com
 
 ### What I've been doing recently

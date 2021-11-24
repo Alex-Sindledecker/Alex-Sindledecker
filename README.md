@@ -2,7 +2,7 @@
 
 I'm Alex Sindledecker, an first year cs student at Washington State University.
 
-- 🔭 I’m currently working on gettingy degree. 12.5% of the way there!
+- 🔭 I’m currently working on getting my computer science degree
 - 👯 I’m willing to collaborate on anything involving low level graphics or sound 
 - 💬 Ask me about game engines or synthesisers!
 - 📫 How to reach me: alexsindledecker1@gmail.com

@@ -10,15 +10,16 @@ I'm Alex, a first year cs student at Washington State University.
 <div align="left">
   <h3>Some Pretty Cool Stats About Me</h3>
 </div>
-<div align="left">
+<div>
   <a href="https://github.com/Alex-Sindledecker" target="_blank">
-    <img align="left"
+    <img
       src="https://github-readme-stats-seven-chi.vercel.app/api?username=Alex-Sindledecker&hide=stars&theme=ayu-mirage">
   </a>
 </div>
-<div align="left">
+<br/>
+<div>
   <a href="https://github.com/search?o=desc&q=user%3AAlex-Sindledecker&s=stars&type=Repositories">
-    <img align="left"
+    <img
       src="https://github-readme-stats-seven-chi.vercel.app/api/top-langs/?username=Alex-Sindledecker&layout=compact&theme=ayu-mirage">
   </a>  
 </div>

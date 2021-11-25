@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex Sindledecker, an first year cs student at Washington State University.
+I'm Alex, an first year cs student at Washington State University.
 
 - 🔭 I’m currently working on getting my computer science degree
 - 👯 I’m willing to collaborate on anything involving low level graphics or sound 

@@ -7,15 +7,6 @@ I'm Alex, a first year cs student at Washington State University.
 - 💬 Ask me about game engines or synthesisers!
 - 📫 How to reach me: alexsindledecker1@gmail.com
 
-### What I've been doing recently
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ForestStreamStudios/Timezone-Website/pull/6) in [ForestStreamStudios/Timezone-Website](https://github.com/ForestStreamStudios/Timezone-Website)
-2. 🎉 Merged PR [#3](https://github.com/Alex-Sindledecker/Game-Engine/pull/3) in [Alex-Sindledecker/Game-Engine](https://github.com/Alex-Sindledecker/Game-Engine)
-3. 💪 Opened PR [#3](https://github.com/Alex-Sindledecker/Game-Engine/pull/3) in [Alex-Sindledecker/Game-Engine](https://github.com/Alex-Sindledecker/Game-Engine)
-4. 🎉 Merged PR [#2](https://github.com/Alex-Sindledecker/Game-Engine/pull/2) in [Alex-Sindledecker/Game-Engine](https://github.com/Alex-Sindledecker/Game-Engine)
-5. 💪 Opened PR [#2](https://github.com/Alex-Sindledecker/Game-Engine/pull/2) in [Alex-Sindledecker/Game-Engine](https://github.com/Alex-Sindledecker/Game-Engine)
-<!--END_SECTION:activity-->
-
 <div align="left">
   <h3>Some Pretty Cool Stats About Me</h3>
 </div>

@@ -2,8 +2,8 @@
 
 I'm Alex, a first year cs student at Washington State University.
 
-- 🔭 I’m currently working on getting my computer science degree
-- 👯 I’m willing to collaborate on anything involving low level graphics or sound 
+- 🔭 Currently working on earning my bachelor's of computer science.
+- 👯 Looking for any computer science internship.
 - 💬 Ask me about game engines or synthesisers!
 - 📫 How to reach me: alexsindledecker1@gmail.com
 

@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Alex, a first year cs student at Washington State University.
+I'm Alex, a self taught programmer who likes to make game engines and websites. Here's what i've been up to:
 
-- 🔭 Currently working on earning my bachelor's of computer science.
-- 👯 Looking for any computer science internship.
-- 💬 Ask me about game engines or synthesisers!
+- 🔭 Currently working on my multiplayer platformer game
+- 👯 Looking for a computer science job or internship!
+- 💬 Ask me about game engines!
 - 📫 How to reach me: alexsindledecker1@gmail.com
 
 <div align="left">

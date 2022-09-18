@@ -2,10 +2,10 @@
 
 I'm Alex, a self taught programmer who likes to make game engines and websites. Here's what i've been up to:
 
-- 🔭 Currently working on my multiplayer platformer game
-- 👯 Looking for a computer science job or internship!
+- 🔭 Currently working on my algorithm visualizer and bug tracker website!
+- 👯 Looking for a full time developer job position!
 - 💬 Ask me about game engines!
-- 📫 How to reach me: alexsindledecker1@gmail.com
+- 📫 How to reach me: sindledecker.alex@gmail.com
 
 <div align="left">
   <h3>Some Pretty Cool Stats About Me</h3>

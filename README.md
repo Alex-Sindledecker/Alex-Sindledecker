@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-I'm Alex, a self taught programmer who likes to make game engines and websites. Here's what i've been up to:
-
-- 🔭 Currently working on my algorithm visualizer and bug tracker website!
-- 👯 Looking for a full time developer job position!
-- 💬 Ask me about game engines!
-- 📫 How to reach me: sindledecker.alex@gmail.com
+Once programmed for fun and pursed a dev job. Now I fix airplanes and ride mountain bikes 🤷. Still make things occasionally,
 
 <div align="left">
-  <h3>Some Pretty Cool Stats About Me</h3>
+  <h3>Leaving all this here cause why not? Took too much effort to get it set up in the first place</h3>
 </div>
 <div>
   <a href="https://github.com/Alex-Sindledecker" target="_blank">
